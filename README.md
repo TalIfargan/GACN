@@ -3,7 +3,7 @@ We took all the annotated data(train1, train2, test) combined it and randomly sp
 
 ** NOTE: The data for this project is not publiclly available, for more details see: https://www.i2b2.org/NLP/Obesity/ **
 
-
+## Preprocessing, Training and Generating notes
 ### first step:
 preprocessing the data - run main.py
 
