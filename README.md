@@ -6,7 +6,7 @@ This project is a final project of NLP course. Maybe in the future we will publi
 ## Data
 We took all the annotated data(train1, train2, test) combined it and randomly split to train and test.
 
-** NOTE: The data for this project is not publiclly available, for more details see: https://www.i2b2.org/NLP/Obesity/ **
+** NOTE: The data for this project is not publicly available, for more details see: https://www.i2b2.org/NLP/Obesity/ **
 
 ## Preprocessing, Training and Generating notes
 ### first step:
