@@ -1,4 +1,5 @@
 # GACN
+Please refer to the short paper we wrote regarding this work: [Paper](GACN.pdf)
 
 ## Introduction
 This project is a final project of NLP course. Maybe in the future we will publish our results.
