@@ -2,7 +2,7 @@
 Please refer to the short paper we wrote regarding this work: [Paper](GACN.pdf)
 
 ## Introduction
-This project is a final project of NLP course. Maybe in the future we will publish our results.
+This project is a final project of NLP course.
 
 ## Data
 We took all the annotated data(train1, train2, test) combined it and randomly split to train and test.
